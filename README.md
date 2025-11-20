@@ -141,5 +141,5 @@ I do not allow:
 <p align="left">
 <a href="https://github.com/AslanMoran345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AslanMoran345" height="30" width="40" /></a>
 </p>
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AslanMoran345&" alt="AslanMoran345" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=%20AslanMoran345&theme=tokyonight&border_radius=4" alt="GitHub Streak" /></a>
