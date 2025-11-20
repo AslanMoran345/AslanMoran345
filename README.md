@@ -114,6 +114,31 @@ I do not allow:
 ---
 ---
 
+# 🌱 I'm currently learning about:
+| **Front-End Development** * **Framework/Libraries** | **Front-End Development** * **CSS Frameworks** |
+| --- | --- |
+| Like: React ￮￮ Angular ￮￮ Three.js ￮￮ Lodash | Like: Bootstrap ￮￮ Materialize ￮￮ Semantic UI ￮￮ Flexbox Grid |
+| **Front-End Development** * **UI Component Libraries** | **Front-End Development** * **State management** |
+| Like: Vuetify - Chakra UI ￮￮ Element UI | Like: Redux ￮￮ Zustand ￮￮ XState |
+| **Front-End Development** * **Build Tools** | **Back-End Development** * **Frameworks** |
+| Like: Webpack ￮￮ Parcel ￮￮ Snowpack | Like: Node.js ￮￮ Ruby on Rails ￮￮ Gatsby |
+| **Back-End Development** * **Databases** | **Back-End Development** * **API Development** |
+| Like: MySQL ￮￮ PostgreSQL ￮￮ Firebase Realtime Database | Like: Swagger/OpenAPI |
+| **Back-End Development** * **Authentication** | **Back-End Development** * **Full-Stack Frameworks** |
+| Like: Passport.js ￮￮ OAuth 2.0 | Like: Meteor |
+| **Back-End Development** * **Cloud Platforms** | **Development Tools** * **Build Tools** |
+| Centralized and decentralized options | Centralized and decentralized options |
+| **Development Tools** * **Build Tools** | **Development Tools** * **Testing Frameworks** |
+| Like: Webpack ￮￮ Babel | Like: Mocha |
+| **Development Tools | Containerization** | **More information:** |
+| Like Docker | I might share my learning process through my blog, [Teckie >>](https://www.agmblogs.quest/Teckie.html) |
+
+
+
+
+---
+---
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/AslanMoran345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AslanMoran345" height="30" width="40" /></a>
