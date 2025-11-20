@@ -39,8 +39,6 @@ Document what is real. |
 
 # ✍️ How I Learn & Work
 
-I document my study pathways publicly. Many topics I cover are not approached with the intent of claiming expertise, but to demonstrate:
-
 | I document my study pathways publicly. Many topics I cover are not approached with the intent of claiming expertise, but to demonstrate: | Each topic begins as: |
 | --- | --- | 
 Transparent learning ￮￮ Information synthesis ￮￮ Responsible research communication | Learning pathway ￮￮ Organized notes ￮￮ Resource collection ￮￮ Patterns, insights, and synthesis  ￮￮ When appropriate — long-form articles |
