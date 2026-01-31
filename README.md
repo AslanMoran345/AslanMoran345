@@ -47,7 +47,7 @@ Transparent learning ￮￮ Information synthesis ￮￮ Responsible research co
 
 # 📚 Types of Topics I Explore
 
-| [JournaLight >>](https://www.agmblogs.quest/JournaLight.html) | [Teckie >>](https://www.agmblogs.quest/Teckie.html) | [Melodixs >>](https://www.agmblogs.quest/Melodixs.html) | [JournalNight >>](https://www.agmblogs.quest/JournalNight.html)
+| [JournaLight >>](https://www.agmblogs.quest/JournaLight.html) | [Teckie >>](https://www.agmblogs.quest/Teckie.html) | [Melodixs >>](https://www.agmblogs.quest/Melodixs.html) | [JournalNight >>](https://journal-night.vercel.app/JournalNight.html)
 | --- | --- | --- | --- |  
 | **Human development** | **Technology** | **Lifestyle & culture** | **Sexual health** | 
 | Critical thinking | Open-source ecosystems | Music | Consent | 
